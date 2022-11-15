@@ -1,0 +1,12 @@
+[
+    {"cc":"AED","symbol":"\u062f.\u0625;","name":"UAE dirham"},
+    {"cc":"AFN","symbol":"Afs","name":"Afghan afghani"},
+    {"cc":"ALL","symbol":"L","name":"Albanian lek"},
+    {"cc":"AMD","symbol":"AMD","name":"Armenian dram"},
+    {"cc":"ANG","symbol":"NA\u0192","name":"Netherlands Antillean gulden"},
+    {"cc":"AOA","symbol":"Kz","name":"Angolan kwanza"},
+    {"cc":"ARS","symbol":"$","name":"Argentine peso"},
+    {"cc":"AUD","symbol":"$","name":"Australian dollar"},
+    {"cc":"AWG","symbol":"\u0192","name":"Aruban florin"},
+    {"cc":"AZN","symbol":"AZN","name":"Azerbaijani manat"}
+]
